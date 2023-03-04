@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  This user script aim to help user to learn Japanese with speechling.com. It create an translation from hiragana and kanji to romaji.
+// @author       lamonkey
 // @match        https://speechling.com/dictation
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=speechling.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
